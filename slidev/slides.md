@@ -39,7 +39,7 @@ favicon: 'assets/jm-lego-favico.ico'
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 13, 2025
+    <logos:linkedin-icon /> &nbsp; <a href="https://www.linkedin.com/in/josh3/" target="_blank">Josh Miller</a> &nbsp; &nbsp; &nbsp; <twemoji-spiral-calendar /> &nbsp;<span class="text-neutral-500">Last updated:</span>&nbsp; July 15, 2025
   </span>
   <PoweredBySlidev inline-block ml-6 opacity-30 hover:opacity-100 />
 </div>
@@ -222,7 +222,7 @@ title: References
 <div class="border-b border-neutral-800 pb-6 text-4xl mb-6"><twemoji:books />&nbsp; References </div>
 
 <div class="grid grid-cols-2 gap-10 text-xs leading-none">
-  <div>Andersen, M. (2014). How LEGO found its way back to the top. MIT Sloan Management Review, 55(4), 1–7.<br><br>Andersen, P., & Ross, J. W. (2016, March 21). Transforming the LEGO Group for the digital economy (CISR Working Paper No. 407). MIT Sloan School Center for Information Systems Research. <a href="https://ctl.mit.edu/sites/ctl.mit.edu/files/attachments/MIT_CISRwp407_TheLEGOGroup_AndersenRoss_0.pdf">PDF Link</a><br><br>Burke, W. W. (2011). Organization change: Theory and practice (3rd ed.). Sage Publications.<br><br>
+  <div>Andersen, P., & Ross, J. W. (2016, March 21). Transforming the LEGO Group for the digital economy (CISR Working Paper No. 407). MIT Sloan School Center for Information Systems Research. <a href="https://ctl.mit.edu/sites/ctl.mit.edu/files/attachments/MIT_CISRwp407_TheLEGOGroup_AndersenRoss_0.pdf">PDF Link</a><br><br>Burke, W. W. (2011). Organization change: Theory and practice (3rd ed.). Sage Publications.<br><br>
 Davis, J. (2017, June 4). How Lego clicked: the super brand that reinvented itself. <em>The Guardian</em> <a href="https://www.theguardian.com/lifeandstyle/2017/jun/04/how-lego-clicked-the-super-brand-that-reinvented-itself">Article Link</a><br><br>
 Kapadia, H. (2023, August 14). LEGO: One of the greatest turnaround stories in corporate history. Platform01 Consulting. Retrieved July 14, 2025, from <a href="https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/">https://platform01consulting.com/lego-one-of-the-greatest-turnaround-stories-in-corporate-history/</a><br><br>
 Kotter, J. P. (1996). Leading change. Harvard Business School Press.<br><br>
